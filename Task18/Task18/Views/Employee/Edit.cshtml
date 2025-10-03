@@ -1,0 +1,9 @@
+﻿@model CrudApp.Models.Employee
+
+<h2>Edit Employee</h2>
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <p>Name: <input asp-for="Name" /></p>
+    <p>Position: <input asp-for="Position" /></p>
+    <button type="submit">Update</button>
+</form>
