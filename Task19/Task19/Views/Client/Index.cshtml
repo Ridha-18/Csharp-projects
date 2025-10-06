@@ -1,0 +1,26 @@
+﻿@model List<Task19.Models.Client>
+
+<h3>Client List</h3>
+<a asp-action="Create">Add Client</a>
+<table border="1" cellpadding="5" width="75%">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+    </tr>
+    @foreach (var client in Model)
+    {
+        <tr>
+            <td>@client.Id</td>
+            <td>@client.Name</td>
+            <td>@client.Email</td>
+            <td>@client.Phone</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@client.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@client.Id">Delete</a> |
+                <a asp-action="Details" asp-route-id="@client.Id">Details</a>
+            </td>
+        </tr>
+    }
+</table>

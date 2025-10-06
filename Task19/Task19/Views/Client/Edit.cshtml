@@ -1,0 +1,22 @@
+﻿@model Task19.Models.Client
+
+<h3>Edit Client</h3>
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="Name"></label><br />
+        <input asp-for="Name" style="width: 100%; padding: 5px;" />
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="Email"></label><br />
+        <input asp-for="Email" style="width: 100%; padding: 5px;" />
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="Phone"></label><br />
+        <input asp-for="Phone" style="width: 100%; padding: 5px;" />
+    </div>
+
+    <button type="submit">Save</button>
+</form>
