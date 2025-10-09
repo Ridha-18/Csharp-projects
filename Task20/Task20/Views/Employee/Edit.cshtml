@@ -1,0 +1,55 @@
+﻿@model Task20.Models.Employee
+
+<h3>Edit Employee</h3>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="Name"></label><br />
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="DOB"></label><br />
+        <input asp-for="DOB" class="form-control" />
+        <span asp-validation-for="DOB" class="text-danger"></span>
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="DOJ"></label><br />
+        <input asp-for="DOJ" class="form-control" />
+        <span asp-validation-for="DOJ" class="text-danger"></span>
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="Salary"></label><br />
+        <input asp-for="Salary" class="form-control" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="Department"></label><br />
+        <input asp-for="Department" class="form-control" />
+        <span asp-validation-for="Department" class="text-danger"></span>
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="Password"></label><br />
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div style="margin-bottom: 15px; max-width: 400px;">
+        <label asp-for="ConfirmPassword"></label><br />
+        <input asp-for="ConfirmPassword" class="form-control" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+
+    <button type="submit">Save</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

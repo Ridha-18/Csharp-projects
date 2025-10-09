@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\customvalidator\\customvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\customvalidator\\customvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\migrations\\20251008061839_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\migrations\\20251008061839_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\datacontext\\employeedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\datacontext\\employeedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task20\\task20\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF68973-BD54-4051-BBCD-5501A09773B9}|Task20\\Task20.csproj|solutionrelative:task20\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomValidator.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\CustomValidator\\CustomValidator.cs",
+              "RelativeDocumentMoniker": "Task20\\CustomValidator\\CustomValidator.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\CustomValidator\\CustomValidator.cs",
+              "RelativeToolTip": "Task20\\CustomValidator\\CustomValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:11:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task20\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Task20\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T06:45:20.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task20\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Task20\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T06:46:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task20\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Task20\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T06:46:23.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Task20\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Task20\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:47:06.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Task20\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Models\\Employee.cs",
+              "RelativeToolTip": "Task20\\Models\\Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:21:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task20\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Task20\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T06:45:43.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Program.cs",
+              "RelativeDocumentMoniker": "Task20\\Program.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Program.cs",
+              "RelativeToolTip": "Task20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:39:42.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\DataContext\\EmployeeDataContext.cs",
+              "RelativeDocumentMoniker": "Task20\\DataContext\\EmployeeDataContext.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\DataContext\\EmployeeDataContext.cs",
+              "RelativeToolTip": "Task20\\DataContext\\EmployeeDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:31:37.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251008061839_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Migrations\\20251008061839_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task20\\Migrations\\20251008061839_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task20\\Task20\\Migrations\\20251008061839_InitialCreate.cs",
+              "RelativeToolTip": "Task20\\Migrations\\20251008061839_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:18:40.577Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
