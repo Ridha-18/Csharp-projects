@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03526D-1BFE-45CE-AA0A-09224B00D394}|Task22\\Task22.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\task22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03526D-1BFE-45CE-AA0A-09224B00D394}|Task22\\Task22.csproj|solutionrelative:task22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03526D-1BFE-45CE-AA0A-09224B00D394}|Task22\\Task22.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\task22\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03526D-1BFE-45CE-AA0A-09224B00D394}|Task22\\Task22.csproj|solutionrelative:task22\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03526D-1BFE-45CE-AA0A-09224B00D394}|Task22\\Task22.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\task22\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03526D-1BFE-45CE-AA0A-09224B00D394}|Task22\\Task22.csproj|solutionrelative:task22\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1A29B1-A38F-4C1D-A8D2-A324BD3DEBE3}|RepositoryForProject\\RepositoryForProject.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\repositoryforproject\\coursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1A29B1-A38F-4C1D-A8D2-A324BD3DEBE3}|RepositoryForProject\\RepositoryForProject.csproj|solutionrelative:repositoryforproject\\coursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1A29B1-A38F-4C1D-A8D2-A324BD3DEBE3}|RepositoryForProject\\RepositoryForProject.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\repositoryforproject\\icoursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1A29B1-A38F-4C1D-A8D2-A324BD3DEBE3}|RepositoryForProject\\RepositoryForProject.csproj|solutionrelative:repositoryforproject\\icoursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA41B5-3658-45C7-A549-7F2D2209DAF8}|ModelsForProject\\ModelsForProject.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\modelsforproject\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA41B5-3658-45C7-A549-7F2D2209DAF8}|ModelsForProject\\ModelsForProject.csproj|solutionrelative:modelsforproject\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B7A510-C2F7-4604-A3B0-F1C371A35B5E}|ContextForProject\\ContextForProject.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\contextforproject\\studentscoursedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B7A510-C2F7-4604-A3B0-F1C371A35B5E}|ContextForProject\\ContextForProject.csproj|solutionrelative:contextforproject\\studentscoursedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA41B5-3658-45C7-A549-7F2D2209DAF8}|ModelsForProject\\ModelsForProject.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\modelsforproject\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA41B5-3658-45C7-A549-7F2D2209DAF8}|ModelsForProject\\ModelsForProject.csproj|solutionrelative:modelsforproject\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B7A510-C2F7-4604-A3B0-F1C371A35B5E}|ContextForProject\\ContextForProject.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task22\\contextforproject\\migrations\\20251014035920_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B7A510-C2F7-4604-A3B0-F1C371A35B5E}|ContextForProject\\ContextForProject.csproj|solutionrelative:contextforproject\\migrations\\20251014035920_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\Task22\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Task22\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\Task22\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Task22\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:13:25.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICoursesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\RepositoryForProject\\ICoursesRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryForProject\\ICoursesRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\RepositoryForProject\\ICoursesRepository.cs",
+              "RelativeToolTip": "RepositoryForProject\\ICoursesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:10:15.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ModelsForProject\\Course.cs",
+              "RelativeDocumentMoniker": "ModelsForProject\\Course.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ModelsForProject\\Course.cs",
+              "RelativeToolTip": "ModelsForProject\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:00:51.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsCourseDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ContextForProject\\StudentsCourseDataContext.cs",
+              "RelativeDocumentMoniker": "ContextForProject\\StudentsCourseDataContext.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ContextForProject\\StudentsCourseDataContext.cs",
+              "RelativeToolTip": "ContextForProject\\StudentsCourseDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T03:55:55.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\Task22\\Program.cs",
+              "RelativeDocumentMoniker": "Task22\\Program.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\Task22\\Program.cs",
+              "RelativeToolTip": "Task22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T03:50:23.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\Task22\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Task22\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\Task22\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Task22\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T03:52:01.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\RepositoryForProject\\CoursesRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryForProject\\CoursesRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\RepositoryForProject\\CoursesRepository.cs",
+              "RelativeToolTip": "RepositoryForProject\\CoursesRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:10:39.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251014035920_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ContextForProject\\Migrations\\20251014035920_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContextForProject\\Migrations\\20251014035920_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ContextForProject\\Migrations\\20251014035920_InitialCreate.cs",
+              "RelativeToolTip": "ContextForProject\\Migrations\\20251014035920_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T03:59:21.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ModelsForProject\\Students.cs",
+              "RelativeDocumentMoniker": "ModelsForProject\\Students.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task22\\ModelsForProject\\Students.cs",
+              "RelativeToolTip": "ModelsForProject\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T03:55:41.472Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
