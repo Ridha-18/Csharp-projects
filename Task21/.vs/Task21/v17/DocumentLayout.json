@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\datacontext\\customerdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\datacontext\\customerdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\customvalidator\\customvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\customvalidator\\customvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\task21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\task21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\migrations\\20251009065814_validationchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\migrations\\20251009065814_validationchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|c:\\users\\user1\\documents\\abstract group\\csharp\\task21\\task21\\migrations\\20251009065359_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0B5D5D-DF0F-445B-AE72-8A72DC648FCD}|Task21\\Task21.csproj|solutionrelative:task21\\migrations\\20251009065359_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task21.csproj",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Task21.csproj",
+              "RelativeDocumentMoniker": "Task21\\Task21.csproj",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Task21.csproj",
+              "RelativeToolTip": "Task21\\Task21.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T06:13:43.012Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "Task21\\Controllers\\VendorController.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "Task21\\Controllers\\VendorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:59:11.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Task21\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Task21\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADgAAABAMzMzMzMjwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:59:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Program.cs",
+              "RelativeDocumentMoniker": "Task21\\Program.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Program.cs",
+              "RelativeToolTip": "Task21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:13:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomValidator.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\CustomValidator\\CustomValidator.cs",
+              "RelativeDocumentMoniker": "Task21\\CustomValidator\\CustomValidator.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\CustomValidator\\CustomValidator.cs",
+              "RelativeToolTip": "Task21\\CustomValidator\\CustomValidator.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:35:14.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\DataContext\\CustomerDataContext.cs",
+              "RelativeDocumentMoniker": "Task21\\DataContext\\CustomerDataContext.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\DataContext\\CustomerDataContext.cs",
+              "RelativeToolTip": "Task21\\DataContext\\CustomerDataContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:14:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Task21\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Models\\Customer.cs",
+              "RelativeToolTip": "Task21\\Models\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:12:11.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "Task21\\Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Models\\Vendor.cs",
+              "RelativeToolTip": "Task21\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:12:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251009065359_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Migrations\\20251009065359_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task21\\Migrations\\20251009065359_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Migrations\\20251009065359_InitialCreate.cs",
+              "RelativeToolTip": "Task21\\Migrations\\20251009065359_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:54:00.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251009065814_ValidationChanges.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Migrations\\20251009065814_ValidationChanges.cs",
+              "RelativeDocumentMoniker": "Task21\\Migrations\\20251009065814_ValidationChanges.cs",
+              "ToolTip": "C:\\Users\\USER1\\Documents\\ABSTRACT GROUP\\Csharp\\Task21\\Task21\\Migrations\\20251009065814_ValidationChanges.cs",
+              "RelativeToolTip": "Task21\\Migrations\\20251009065814_ValidationChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:58:14.812Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
